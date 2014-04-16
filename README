@@ -1,4 +1,6 @@
-This project written in MATLAB. We had implemented the boxcar integrator method to reduce random noise for signal with fixed frequency. 
+This project written in MATLAB. We had implemented the boxcar integrator method to reduce random noise for signal with fixed frequency.
+ 
+An application of this method is to recover ECG (demonstrate human's heart beat)from random noise from the environment (e.g. thermal noise) 
 
 Sample input is mixed with random noise then be recovered by using our progam. The output will be ploted inside GUI aplication.
 
