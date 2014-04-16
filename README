@@ -1,0 +1,5 @@
+This project written in MATLAB. We had implemented the boxcar integrator method to reduce random noise for signal with fixed frequency. 
+
+Sample input is mixed with random noise then be recovered by using our progam. The output will be ploted inside GUI aplication.
+
+Enjoy MATLAB and DSP !
